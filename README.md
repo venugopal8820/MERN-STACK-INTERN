@@ -1,2 +1,12 @@
-# MERN-STACK-INTERN
-📁 MERN Stack Internship Projects A collection of projects and tasks completed during my MERN Stack internship. Covers full-stack development with MongoDB, Express.js, React.js, and Node.js, including CRUD operations, REST APIs, authentication, and deployment.
+# REAL TIME CHAT APPLICATION 
+
+*COMPANY*: CODTECH IT SOLUTIONS 
+
+*NAME*:  PITLA VENUGOPAL 
+
+*INTERN ID*: CT04DF217 
+
+*DOMAIN*: MERN STACK
+
+*DURATION* : 4 WEEKS 
+
