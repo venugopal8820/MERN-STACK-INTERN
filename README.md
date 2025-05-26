@@ -10,3 +10,4 @@
 
 *DURATION* : 4 WEEKS 
 
+Making research regarding my project and collected lot of data 
